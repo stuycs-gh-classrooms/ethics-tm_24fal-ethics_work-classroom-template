@@ -1,4 +1,4 @@
-# Work Repository For NeXTCS Fall 2024
+# Work Repository For Ethics in CS, Fall 2024
 ### Name: YOUR NAME HERE
 
 ---
